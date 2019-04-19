@@ -1,0 +1,9 @@
+.vscode
+node_modules
+tiles
+road
+road-poi
+vector
+vector-poi
+mapbox-vector
+mapbox-light-vector
